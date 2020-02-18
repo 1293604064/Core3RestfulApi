@@ -1,0 +1,11 @@
+C:\VS2019项目程序\Core3RestfulApi\Core3RestfulApi\test\bin\Debug\netcoreapp3.1\test.exe
+C:\VS2019项目程序\Core3RestfulApi\Core3RestfulApi\test\bin\Debug\netcoreapp3.1\test.deps.json
+C:\VS2019项目程序\Core3RestfulApi\Core3RestfulApi\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+C:\VS2019项目程序\Core3RestfulApi\Core3RestfulApi\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+C:\VS2019项目程序\Core3RestfulApi\Core3RestfulApi\test\bin\Debug\netcoreapp3.1\test.dll
+C:\VS2019项目程序\Core3RestfulApi\Core3RestfulApi\test\bin\Debug\netcoreapp3.1\test.pdb
+C:\VS2019项目程序\Core3RestfulApi\Core3RestfulApi\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+C:\VS2019项目程序\Core3RestfulApi\Core3RestfulApi\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+C:\VS2019项目程序\Core3RestfulApi\Core3RestfulApi\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+C:\VS2019项目程序\Core3RestfulApi\Core3RestfulApi\test\obj\Debug\netcoreapp3.1\test.dll
+C:\VS2019项目程序\Core3RestfulApi\Core3RestfulApi\test\obj\Debug\netcoreapp3.1\test.pdb
